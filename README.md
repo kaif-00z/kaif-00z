@@ -8,7 +8,7 @@
 <h2 align="center">⚡️ About Me</h2>
 <ul>
     <li>🔭 I’m currently working on Telegram Bots & AOSP Things And Sometimes APIs.
-    <li>🧐 Currently Learning <strong>Kotlin</strong> & <strong>C++</strong>.
+    <li>🧐 Currently Learning <strong>rust</strong>.
     <li>📱 I’m currently maintaing <strong>Redmi 12 5G</strong> Device Tree.
     <li>👨‍💻 Mostly Projects Are Private 😅.
 </ul>
@@ -17,13 +17,16 @@
 <p align="center">
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-blue" alt=""></a>
     <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt=""></a>
-    <a href="https://wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="" srcset=""></a>
     <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt=""/></a>
+    <a href="https://wikipedia.org/wiki/C"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="" srcset=""></a>
+    <a href="https://wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="" srcset=""></a>
+    <a href="https://rust-lang.org/"><img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=000000" alt="" srcset=""></a>
     <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="" srcset=""></a>
     <a href="https://en.wikipedia.org/wiki/Shell_script"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="" srcset=""></a>
     <a href="https://www.redislabs.org/"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="" srcset=""></a>
     <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="" srcset=""></a>
     <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="" srcset=""></a>
+    <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="" srcset=""></a>
     <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="" srcset=""></a>
     <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black" alt=""></a>
     <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="" srcset=""></a>
@@ -58,6 +61,14 @@
 </p>
 <br>
 <h2 align="center">📊 My Github Stats! </h2>
+<p align="center">
+    <a href="https://github.com/kaif-00z"><img src="https://github-readme-stats.vercel.app/api?username=kaif-00z&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+</p> 
+<br>
+<p align="center">
+    <a href="https://gitroll.io/profile/uhjbu3crFKWTrGQql5zsSwDUjjIG2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhjbu3crFKWTrGQql5zsSwDUjjIG2?theme=retro" alt="GitRoll Profile Badge"/></a>
+</p>
+<br>
 <p align="center">
     <a href="https://github.com/kaif-00z"><img src="https://raw.githubusercontent.com/kaif-00z/kaif-00z/refs/heads/main/github-metrics.svg">
 </p> 
